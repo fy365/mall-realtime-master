@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-publisher/mall-publisher.iml" filepath="$PROJECT_DIR$/mall-publisher/mall-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-publisher-2022/mall-publisher-2022.iml" filepath="$PROJECT_DIR$/mall-publisher-2022/mall-publisher-2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-realtime/mall-realtime.iml" filepath="$PROJECT_DIR$/mall-realtime/mall-realtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mall-realtime-master.iml" filepath="$PROJECT_DIR$/.idea/mall-realtime-master.iml" />
+    </modules>
+  </component>
+</project>
